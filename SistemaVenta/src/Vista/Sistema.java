@@ -72,6 +72,7 @@ public class Sistema extends javax.swing.JFrame {
     public Sistema() {
         initComponents();
     }
+    
     public Sistema (login priv){
         initComponents();
         this.setLocationRelativeTo(null);
